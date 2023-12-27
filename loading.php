@@ -49,10 +49,10 @@
       <p class="loading-text">Loading...</p>
     </div>';
   
-  // Redirect to "main.php" after 3 seconds
+  // Redirect to "terms.php" after 3 seconds
   echo '<script>
     setTimeout(function() {
-      window.location.href = "main.php";
+      window.location.href = "terms.php";
     }, 3000);
   </script>';
   

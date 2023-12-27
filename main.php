@@ -1,5 +1,3 @@
-
-
 <head>
 	<title>Dashboard with Icons</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">

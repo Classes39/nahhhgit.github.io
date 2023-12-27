@@ -49,7 +49,7 @@
       <p class="loading-text">Loading...</p>
     </div>';
   
-  // Redirect to "process.php" after 3 seconds
+  // Redirect to "welcome.php" after 3 seconds
   echo '<script>
     setTimeout(function() {
       window.location.href = "process.php";

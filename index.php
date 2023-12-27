@@ -1,6 +1,5 @@
 <?php
-// CSS styles for the registration form
-// Same CSS styles as Code Generated #1
+
 echo "
 <style>
 body {
